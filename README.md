@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhinav-idle
 - 👀 I’m interested in ... Python,Machine Learning, AI, Cloud Computing.
 - 🌱 I’m currently learning ...Data Structures and Algorithms in python.
-- 💞️ I’m looking to collaborate on ... open-source contribution.
+- 💞️ I’m looking to collaborate on ... open-source.
 - 📫 How to reach me ... ig @abhinavtiwari305 
 
 <!---
